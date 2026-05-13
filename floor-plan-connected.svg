@@ -26,7 +26,7 @@
     <text x="212.5" y="790" font-size="12" text-anchor="middle" fill="#666" font-weight="bold">Room 1</text>
   </g>
   
-  <!-- Rectangle 2: 3.750 x 3.500 (90° rotation, 3.750 side joins bottom right of Room 1) -->
+  <!-- Rectangle 2: 3.750 x 3.500 (180° rotation, 3.750 side joins bottom right of Room 1) -->
   <!-- Position: starts at x=275 (150+125), y=610 (150+610-offset), extends right with width 3.500m = 350px, height 3.750m = 375px -->
   <g id="room2">
     <rect x="275" y="385" width="350" height="375" fill="#f0e8f4" stroke="#333" stroke-width="3"/>
