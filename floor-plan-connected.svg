@@ -17,7 +17,7 @@
   
   <!-- Rectangle 1: 1.250 x 6.100 (Vertical, left side) -->
   <g id="room1">
-    <rect x="350" y="350" width="125" height="610" fill="#e8f4f8" stroke="#333" stroke-width="3"/>
+    <rect x="350" y="50" width="125" height="610" fill="#e8f4f8" stroke="#333" stroke-width="3"/>
     <text x="212.5" y="460" font-size="13" font-weight="bold" text-anchor="middle" fill="#333">
       <tspan x="212.5" dy="0">1.25m</tspan>
       <tspan x="212.5" dy="18">×</tspan>
