@@ -41,7 +41,7 @@
   <!-- Rectangle 3: 2.500 x 2.500 (Parallel with Room 1, on the bottom right side of Room 2) -->
   <!-- Position: starts at x=625 (275+350), parallel orientation (vertical) like Room 1 -->
   <g id="room3">
-    <rect x="625" y="385" width="125" height="250" fill="#f4f0e8" stroke="#333" stroke-width="3"/>
+    <rect x="925" y="385" width="125" height="250" fill="#f4f0e8" stroke="#333" stroke-width="3"/>
     <text x="687.5" y="510" font-size="13" font-weight="bold" text-anchor="middle" fill="#333">
       <tspan x="687.5" dy="0">2.50m</tspan>
       <tspan x="687.5" dy="18">×</tspan>
