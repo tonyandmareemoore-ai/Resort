@@ -38,7 +38,7 @@
     <text x="450" y="785" font-size="12" text-anchor="middle" fill="#666" font-weight="bold">Room 2</text>
   </g>
   
-  <!-- Rectangle 3: 2.500 x 2.500 (Parallel with Room 1, on the right side of Room 2) -->
+  <!-- Rectangle 3: 2.500 x 2.500 (Parallel with Room 1, on the bottom right side of Room 2) -->
   <!-- Position: starts at x=625 (275+350), parallel orientation (vertical) like Room 1 -->
   <g id="room3">
     <rect x="625" y="385" width="125" height="250" fill="#f4f0e8" stroke="#333" stroke-width="3"/>
